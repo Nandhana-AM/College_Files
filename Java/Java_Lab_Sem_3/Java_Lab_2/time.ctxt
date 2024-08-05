@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=time
+comment1.params=t
+comment1.target=double\ hrs_to_mins(double)
+comment2.params=t
+comment2.target=double\ mins_to_hrs(double)
+comment3.params=t
+comment3.target=double\ mins_to_secs(double)
+comment4.params=t
+comment4.target=double\ secs_to_mins(double)
+numComments=5

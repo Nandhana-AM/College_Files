@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=currency
+comment1.params=m
+comment1.target=double\ usd_to_inr(double)
+comment2.params=m
+comment2.target=double\ inr_to_usd(double)
+comment3.params=m
+comment3.target=double\ euro_to_inr(double)
+comment4.params=m
+comment4.target=double\ inr_to_euro(double)
+comment5.params=m
+comment5.target=double\ yen_to_inr(double)
+comment6.params=m
+comment6.target=double\ inr_to_yen(double)
+numComments=7
