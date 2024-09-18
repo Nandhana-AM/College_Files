@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Q8Shape
+comment1.params=
+comment1.target=void\ draw()
+comment2.params=
+comment2.target=double\ calculateArea()
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Q6Account
+comment1.params=amount
+comment1.target=void\ deposit(double)
+comment2.params=amount
+comment2.target=void\ withdraw(double)
+comment3.params=
+comment3.target=void\ show_balance()
+numComments=4

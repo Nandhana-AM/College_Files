@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Q4Class
+comment1.params=roomno\ ACmachine\ roomtype\ roomarea
+comment1.target=void\ setdata(int,\ int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ displaydata()
+numComments=3

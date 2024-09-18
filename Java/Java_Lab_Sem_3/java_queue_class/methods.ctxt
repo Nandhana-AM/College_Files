@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=methods
+comment1.params=
+comment1.target=methods()
+comment2.params=num
+comment2.target=int\ enqueue(int)
+comment3.params=
+comment3.target=int\ dequeue()
+comment4.params=
+comment4.target=void\ peek()
+numComments=5

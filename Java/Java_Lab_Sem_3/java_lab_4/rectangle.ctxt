@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=rectangle
+comment1.params=a\ b
+comment1.target=rectangle(int,\ int)
+comment2.params=
+comment2.target=double\ area()
+numComments=3

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Q5
+comment1.params=
+comment1.target=void\ instance1_method()
+comment2.params=
+comment2.target=void\ static_method()
+comment3.params=
+comment3.target=void\ instance2_method()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
