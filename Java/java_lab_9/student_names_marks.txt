@@ -1,0 +1,5 @@
+lewis 96
+max 33
+osca 87
+charles 91
+carlos 90
